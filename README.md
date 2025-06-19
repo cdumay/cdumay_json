@@ -1,4 +1,4 @@
-t# cdumay_json
+# cdumay_json
 
 [![License: BSD-3-Clause](https://img.shields.io/badge/license-BSD--3--Clause-blue)](./LICENSE)
 [![cdumay_json on crates.io](https://img.shields.io/crates/v/cdumay_json)](https://crates.io/crates/cdumay_json)
